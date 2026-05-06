@@ -9,7 +9,7 @@ class SahanaMARUTHI:
     self.gpa          = "8.9 / 10 CGPA"
     self.bachelors    = "B.E. in Aeronautical Engineering"
     self.university   = "Nitte Meenakshi Institute of Technology"
-    self.gpa          = "3.18 / 4 CGPA"
+    self.gpa          = "2.9 / 4 CGPA"
     self.languages    = ["English", "French", "Kannada", "Telugu", "Hindi"] 
     self.open_to      = "Propulsion | Combustion | Powertrain Roles"
 
