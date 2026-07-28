@@ -13,7 +13,7 @@ I’m a recent graduate specialized in **propulsion systems, CFD, and mechanical
 * 🔥 Combustion & propulsion systems
 * ⚙️ Engine modeling & optimization (GT-Suite, AMESim)
 * 🌊 CFD & thermal analysis (Ansys Fluent)
-* 📊 Vibration analysis & signal processing using Python
+* 📊 Vibration analysis & signal processing using Python (LS-Dyna)
 
 I enjoy solving **real-world engineering problems** using simulation, modeling, and data analysis.
 
