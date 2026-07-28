@@ -11,7 +11,7 @@
 I’m a recent graduate specialized in **propulsion systems, CFD, and mechanical simulations**, with hands-on experience in:
 
 * 🔥 Combustion & propulsion systems
-* ⚙️ Engine modeling & optimization
+* ⚙️ Engine modeling & optimization (GT-Suite, AMESim)
 * 🌊 CFD & thermal analysis (Ansys Fluent)
 * 📊 Vibration analysis & signal processing using Python
 
@@ -81,7 +81,7 @@ I enjoy solving **real-world engineering problems** using simulation, modeling, 
 
 ---
 
-### 🌍 Marine Decarbonization
+### 🌍 Marine Decarbonization (GT-Suite)
 
 * Modeled alternative fuels for ship propulsion
 * Conducted **CO₂ reduction analysis**
@@ -112,6 +112,7 @@ I enjoy solving **real-world engineering problems** using simulation, modeling, 
 * French (Learning) 🇫🇷
 * Hindi (Professional)
 * Kannada (Native)
+* Telugu (Native)
 
 ---
 
