@@ -27,7 +27,7 @@ I enjoy solving **real-world engineering problems** using simulation, modeling, 
 
 ### 💻 Programming
 
-`Python` `C++`
+`Python` `C++` `Matlab` 
 
 ### 🧩 CAD & Design
 
